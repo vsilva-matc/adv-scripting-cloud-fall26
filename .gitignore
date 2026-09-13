@@ -1,5 +1,7 @@
 .aws/credentials
 .aws/config
+~/.aws/credentials
+~/.aws/config
 **/__pycache__/
 *.pyc
 week2/.venv/
