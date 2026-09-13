@@ -4,4 +4,4 @@
 ~/.aws/config
 **/__pycache__/
 *.pyc
-week2/.venv/
+week2/.venv/.aws/
