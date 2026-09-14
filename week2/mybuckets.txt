@@ -1,0 +1,4 @@
+Bucket Name is: test-s3-bucket-advscripcloud
+Bucket Name is: vsilva-week3-fall26
+Object: error.html
+Object: index.html
